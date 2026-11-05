@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+
 
 st.write("TThis is my first streamlit app!")
 st.title("Welcome to my Streamlit App")
